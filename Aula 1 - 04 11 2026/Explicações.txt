@@ -1,0 +1,2 @@
+Explicação sobre o que é C#, quais problemas ele resolve e o porquê de usar.
+Explicação sobre .NET Framework qual a relação com C# e o porque ele é utilizado.
