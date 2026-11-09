@@ -1,0 +1,17 @@
+Escreva um programa que receba um numero inteiro e informe se ele é par ou impar
+
+Escreva um programa em que o usuário informe 2 numeros decimais e informe se eles são maior menor ou iguais
+
+Faça um programa que receba 4 notas de um aluno, calcule a média aritmetica e informe o status do aluno baseado nas seguintes condições aprovado se a média for maior ou igual que 7, recuperação se a média for entre 5.1 a 6.9, reprovado se a média for menor ou igual a 5.
+
+Crie um programa que receba 2 números e execute as 4 operações matemáticas basicas
+
+Faça um programa que leia o ano informado pelo suário e diga se ele é ou foi um ano bissexto
+
+Faça um programa que leia a idade de uma pessoa e classifique-o de acordo com as regras: Crianças até 12 anos; Adolecentes de 13 até 17; Adulto de 18 à 59; Idoso 60 ou mais.
+
+Faça um programa que receba o peso em kg e a altura em cm e calcule o IMC. Com base no resultado exiba a faixa correspondente.
+
+Faça um programa que baseado no salário informado calcule o aumento salarial de acordo com as regras a seguir: até 2 mil reais aumento de 15%; entre 2000,01 a 4000 aumento de 10%; Acima de 4000,01 aumento de 5%
+
+Faça um programa que receba o valor de 3 lados de um triangulo e informe o tipo do triangulo OBS: os lados informados devem formar um triangulo
