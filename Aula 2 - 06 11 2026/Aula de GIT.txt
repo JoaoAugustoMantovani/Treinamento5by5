@@ -1,0 +1,7 @@
+Explicação sobre o que é git e quem criou e pra quê
+O que é repositório, branch, commit, staging area, pull, push e merge
+Explicou o fluxo de trabalho em branches e possiveis conflitos e como resolver/quando resolver
+Ensinou como inicializar um repositorio Git
+Ensinou como dar git add, commit, branch, checkout, status, switch 
+Descobri que a main só é criada quando se faz o primeiro commit
+Fizemos merge de varias branches
