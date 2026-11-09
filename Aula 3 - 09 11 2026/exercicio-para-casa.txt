@@ -4,7 +4,7 @@ Escreva um programa em que o usuário informe 2 numeros decimais e informe se el
 
 Faça um programa que receba 4 notas de um aluno, calcule a média aritmetica e informe o status do aluno baseado nas seguintes condições aprovado se a média for maior ou igual que 7, recuperação se a média for entre 5.1 a 6.9, reprovado se a média for menor ou igual a 5.
 
-Crie um programa que receba 2 números e execute as 4 operações matemáticas basicas
+Crie um programa que receba 2 números e execute as 4 operações matemáticas basicas - 
 
 Faça um programa que leia o ano informado pelo suário e diga se ele é ou foi um ano bissexto
 
