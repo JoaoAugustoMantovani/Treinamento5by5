@@ -1,0 +1,16 @@
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\bin\Debug\net10.0\SistemaDeNotas.exe
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\bin\Debug\net10.0\SistemaDeNotas.deps.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\bin\Debug\net10.0\SistemaDeNotas.runtimeconfig.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\bin\Debug\net10.0\SistemaDeNotas.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\bin\Debug\net10.0\SistemaDeNotas.pdb
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.AssemblyInfoInputs.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.AssemblyInfo.cs
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.sourcelink.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\refint\SistemaDeNotas.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.pdb
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaDeNotas.genruntimeconfig.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\ref\SistemaDeNotas.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\SistemaDeNotas\obj\Debug\net10.0\SistemaD.3DFE2385.Up2Date
