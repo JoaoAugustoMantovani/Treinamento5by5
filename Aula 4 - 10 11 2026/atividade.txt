@@ -1,0 +1,9 @@
+1 - faça um programa que leia um numero inteiro e mostre a tabuada de 1 a 10
+
+2 - faça um programa que leia um numero inteiro esse numero é a posição até onde a sequencia fibonacci será exibida
+
+3 - faça um programa que leia um numero inteiro e mostre primeiramente só os valores impares em ordem crescente e depois os valores pares em ordem decrescente inclusive o numero digitado.
+
+4 - faça um programa que leia que leia um numero inteiro e mostre todos os numero primos, até ele, inclusive ele se for primo
+
+5 - faça um programa que leia um numero inteiro e exibe seu calculo fatorial
