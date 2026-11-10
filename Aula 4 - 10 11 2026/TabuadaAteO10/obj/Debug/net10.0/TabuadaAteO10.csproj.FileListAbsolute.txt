@@ -1,0 +1,16 @@
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\bin\Debug\net10.0\TabuadaAteO10.exe
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\bin\Debug\net10.0\TabuadaAteO10.deps.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\bin\Debug\net10.0\TabuadaAteO10.runtimeconfig.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\bin\Debug\net10.0\TabuadaAteO10.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\bin\Debug\net10.0\TabuadaAteO10.pdb
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.AssemblyInfoInputs.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.AssemblyInfo.cs
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.csproj.CoreCompileInputs.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.sourcelink.json
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\refint\TabuadaAteO10.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.pdb
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaAteO10.genruntimeconfig.cache
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\ref\TabuadaAteO10.dll
+C:\Users\JoãoMantovani\Desktop\Treinamento5by5\Aula 4 - 10 11 2026\TabuadaAteO10\obj\Debug\net10.0\TabuadaA.C15E949A.Up2Date
