@@ -12,19 +12,22 @@ float lado3 = float.Parse(Console.ReadLine());
 
 if (lado1 + lado2 > lado3 && lado1 + lado3 > lado2 && lado2 + lado3 > lado1)
 {
-    if(lado1 > 0 && lado2 > 0 && lado3 > 0)
+    if (lado1 > 0 && lado2 > 0 && lado3 > 0)
     {
-        if (lado1 != lado2 && lado2 != lado3 && lado1!= lado3)
+        if (lado1 != lado2 && lado2 != lado3 && lado1 != lado3)
         {
             Console.WriteLine("É um triângulo Escaleno!");
-        } else if (lado1 == lado2 && lado2 == lado3 && lado3 == lado1)
+        }
+        else if (lado1 == lado2 && lado2 == lado3 && lado3 == lado1)
         {
             Console.WriteLine("É um triângulo Equilátero!");
-        } else if (lado1 == lado2 || lado2 == lado3 || lado3 == lado1)
+        }
+        else if (lado1 == lado2 || lado2 == lado3 || lado3 == lado1)
         {
             Console.WriteLine("É um triângulo Isósceles!");
         }
-    } else
+    }
+    else
     {
         Console.WriteLine("Os lados não podem ser negativos");
     }
