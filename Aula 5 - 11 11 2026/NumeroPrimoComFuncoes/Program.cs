@@ -12,7 +12,7 @@ int Numero = int.Parse(Console.ReadLine());
 
 for(int i = 2;  i <= Numero; i++)
 {
-    if (EPrimo(Numero))
+    if (EPrimo(i))
     {
         Console.WriteLine(i);
     }
