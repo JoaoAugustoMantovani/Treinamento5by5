@@ -1,3 +1,7 @@
 Corrigimos os exercicios da aula passada
 Fomos apresentados a funções
 O que compõe uma função, acesso, instancia, retorno, nome, parametros e bloco de codigo
+Passamos o exercicio de numeros primos para o modo com funcoes
+Resolvi muitas buchas que deu no meu codigo e entendi melhor meus erros
+Falamos sobre vetores, o que são, o que são as posições, características.
+

@@ -1,0 +1,8 @@
+1- Faça um programa que leia ATÉ 6 caracteres (CHAR) e grave em um vetor na ordem inserida e imprima o vetor da primeira a ultima posição e da ultima a primeira posição
+
+2- Faça um programa que leia 5 numeros inteiros e salve em um vetor este vetor deve ser copiado para um novo na sequencia inversa, faça o mesmo copiando para um novo vetor de numeros pares e ouro de numeros impar
+
+3- Faça um programa que leia um numero inteiro, usando esse numero, crie um vetor com essa quantidade de posições, dentro deste vetor deve conter os itens da sequencia fibonacci até a posição inserida 
+
+4- Faça um programa que cria um vetor de string com apenas 1 letra de 10 posições, copie para um novo vetor cada uma das posições
+
