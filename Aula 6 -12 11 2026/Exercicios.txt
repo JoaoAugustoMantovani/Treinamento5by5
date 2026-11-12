@@ -1,3 +1,11 @@
 1 - Faça um programa que crie uma matriz de numeros inteiros na quantidade de linhas e colunas que o usuário informar essa matriz deve ser populada automaticamente e ser exibida do primeiro ao ultimo e do ultimo para o primeiro
 
-2 - 
+2 - Faça um programa que gere uma matriz [3,5] populada automaticamente e baseada nela gere uma nova matriz inversa.
+
+..
+
+1 - Desenvolva um programa que crie e preencha uma matriz quadrada de numeros inteiros que será informada pelo usuário, mostre os cálculos somando os valores de cada linha, cada coluna, da diagonal principal e da diagonal inversa
+exibir calculo da soma de todos os elementos da linha 1, 2, 3. Coluna 1,2,3.Diagonal principal e Diagonal inversa
+
+2 - Faça um programa que gere o boletim escolar de um aluno.
+Critérios: As linhas são as matérias, as colunas são as notas de cada bimestre + a média e a situação do aluno em cada matéria
