@@ -1,0 +1,3 @@
+1 - Faça um programa que crie uma matriz de numeros inteiros na quantidade de linhas e colunas que o usuário informar essa matriz deve ser populada automaticamente e ser exibida do primeiro ao ultimo e do ultimo para o primeiro
+
+2 - 

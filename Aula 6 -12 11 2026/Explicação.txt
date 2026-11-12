@@ -1,0 +1,2 @@
+Começamos a aula corrigindo o exercicio de conversão para ascii.
+Explicou o que sâo matrizes, a representação real e a que trabalhamos
