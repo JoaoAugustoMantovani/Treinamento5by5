@@ -1,0 +1,3 @@
+Explicação dos 4 pilares de POO, Explicação aprofundada de Herança e Polimorfismo.
+Classe Abstract o que é e pra que serve em herança;
+O que são propriedades e diferença para atributo, e o que são os getters e setters.
