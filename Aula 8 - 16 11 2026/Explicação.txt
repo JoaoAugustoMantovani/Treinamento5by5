@@ -1,0 +1,3 @@
+Iniciamos POO.
+Explicou o que é POO e o que são classes.
+Classe é um conjunto de propriedades e métodos que tem como intenção de criar um objeto
