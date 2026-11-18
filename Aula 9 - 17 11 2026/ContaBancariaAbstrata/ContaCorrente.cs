@@ -30,7 +30,7 @@
 
     public override bool Sacar(double valor)
     {
-        if (Saldo >= valor)
+        if (valor <= Saldo + Limite)
         {
             Saldo -= valor;
             setLimite(Saldo);
