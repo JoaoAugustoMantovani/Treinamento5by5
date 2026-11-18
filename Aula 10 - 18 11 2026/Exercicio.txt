@@ -1,0 +1,3 @@
+No Hospital de nome: "Só Falta Você", você foi contratado para gerenciar a ordem de atendimento do pronto socorro, essa ordem segue a seguinte regra, para cada 2 atendimentos da fila prioritária 1 atendimento da fila normal é executado.
+
+Faça um programa que gerencie essa fila usando senhas alfanuméricas ex: Prioritária: P((Random.Shared.Next(1,200)). Normal: N(Random.Shared.Next(1,200))
