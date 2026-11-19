@@ -48,7 +48,7 @@ while (true)
         else if (!filaPreferencial.FilaVazia())
         {
             string senha = filaPreferencial.Head.Senha;
-            filaPreferencial.RemoverElemento()
+            filaPreferencial.RemoverElemento();
 
             if (preferenciaisSeguidas < 2)
             {
